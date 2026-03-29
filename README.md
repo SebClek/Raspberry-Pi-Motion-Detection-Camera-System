@@ -12,3 +12,6 @@ Developing a real-time motion detection system using a Raspberry Pi camera modul
    - Windows (PowerShell): `.venv\Scripts\activate`
    - Windows (Git Bash): `source .venv/Scripts/activate`
    - Mac/Linux: `source .venv/bin/activate`
+
+4.
+   pip install opencv-python pandas
